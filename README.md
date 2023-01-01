@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Nico
 - 👀 I’m interested in coding and stuff like that!
-- 🌱 I’m currently learning python
-- 📫 How to reach me discord Nikolai#4145
+- 🌱 I’m currently learning unity
+- 📫 How to reach me hah ou can't.
 
 <!---
 VZRLegion/VZRLegion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
